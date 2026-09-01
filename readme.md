@@ -14,9 +14,7 @@ This project implements Support Vector Regression (SVR) from scratch without rel
 * Prediction using the learned regression function
 * Model evaluation using MSE, MAE, and R² score
 * Comparison with scikit-learn
-* Regression line visualization
-* Epsilon margin visualization
-* Support vector visualization
+* Support vector machine Regression visualization
 
 ## Dataset
 
