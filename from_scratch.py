@@ -71,9 +71,9 @@ mse = np.mean((errors**2))
 res = np.sum(errors**2)
 total = np.sum((y_test-np.mean(y_test))**2)
 r2 = 1 - (res/total)
-print('mae', mae)
-print('mse', mse)
-print('r2', r2)
+print('MAE:', mae)
+print('MSE:', mse)
+print('R2 SCORE:', r2)
 
 
 
